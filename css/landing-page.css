@@ -130,3 +130,10 @@ footer.footer {
 .bg-light {
   background-color: #bbef8b!important;
 }
+
+.navHeader{
+  background-color: rgb(92, 91, 93)!important;
+}
+.navHeader .nav-link{
+  color: #fff;
+}
